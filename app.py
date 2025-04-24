@@ -9,6 +9,8 @@ password:mysql'''
 '''we are first going to upload resume and jd, and then extract text and see cosine similarity and give a score, 
 and we'll say which words to add to resume, we'll use space for NER, and BERT for text understanding, 
 we are going to deploy this using streamlit and database is mysql, '''
+
+import streamlit as st
 import fitz # PyMuPDF
 import re
 import pandas as pd

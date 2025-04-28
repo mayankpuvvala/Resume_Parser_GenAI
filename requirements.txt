@@ -2,11 +2,12 @@ pandas
 streamlit
 spacy
 pymupdf
-mysql-connector-python
 transformers
 scikit-learn
 jsonlines
-xlsxwriter
-matplotlib
-python-dotenv
 torch
+numpy
+huggingface_hub
+dotenv
+numpy
+datasets
